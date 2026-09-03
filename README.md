@@ -20,5 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/trilokesh2912/leetcode/tree/master/0011-container-with-most-water) |
 | [0735-asteroid-collision](https://github.com/trilokesh2912/leetcode/tree/master/0735-asteroid-collision) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/trilokesh2912/leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/trilokesh2912/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
