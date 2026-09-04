@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/trilokesh2912/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/trilokesh2912/leetcode/tree/master/0042-trapping-rain-water) |
+| [0704-binary-search](https://github.com/trilokesh2912/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/trilokesh2912/leetcode/tree/master/0735-asteroid-collision) |
 ## Two Pointers
 |  |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/trilokesh2912/leetcode/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/trilokesh2912/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
