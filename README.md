@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/trilokesh2912/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/trilokesh2912/leetcode/tree/master/0042-trapping-rain-water) |
+| [0560-subarray-sum-equals-k](https://github.com/trilokesh2912/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/trilokesh2912/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/trilokesh2912/leetcode/tree/master/0735-asteroid-collision) |
 ## Two Pointers
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/trilokesh2912/leetcode/tree/master/0704-binary-search) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/trilokesh2912/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/trilokesh2912/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
