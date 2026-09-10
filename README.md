@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/trilokesh2912/leetcode/tree/master/0344-reverse-string) |
 | [2390-removing-stars-from-a-string](https://github.com/trilokesh2912/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/trilokesh2912/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/trilokesh2912/leetcode/tree/master/0042-trapping-rain-water) |
+| [0344-reverse-string](https://github.com/trilokesh2912/leetcode/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
