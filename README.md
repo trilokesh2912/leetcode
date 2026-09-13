@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/trilokesh2912/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/trilokesh2912/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/trilokesh2912/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0485-max-consecutive-ones](https://github.com/trilokesh2912/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/trilokesh2912/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/trilokesh2912/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/trilokesh2912/leetcode/tree/master/0735-asteroid-collision) |
