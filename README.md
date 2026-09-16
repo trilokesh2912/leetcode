@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/trilokesh2912/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/trilokesh2912/leetcode/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/trilokesh2912/leetcode/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/trilokesh2912/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0485-max-consecutive-ones](https://github.com/trilokesh2912/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/trilokesh2912/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -88,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/trilokesh2912/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/trilokesh2912/leetcode/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/trilokesh2912/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
